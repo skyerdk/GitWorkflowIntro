@@ -25,7 +25,7 @@ Steps of Github Workflow
     which are not. Branching exists to help you manage this 
     workflow. 
     
-    When you create a branch in your project, you're creating 
+>   When you create a branch in your project, you're creating 
     an environment where you can try out new ideas. Changes 
     you make on a branch don't affect the master branch, 
     so you're free to experiment and commit changes, safe 
